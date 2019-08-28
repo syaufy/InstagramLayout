@@ -7,7 +7,7 @@
   padding-top: 70px;
   height: 750px;
   float: right;
-  margin: 10px;
+  margin-top: -60px;
 }
 
 body {
@@ -24,7 +24,7 @@ body {
   width: 375px;
   margin: 10px;
   padding: 20px;
-  height: 544px;
+  height: 580px;
 }
 
 .instagram-logo {
@@ -104,6 +104,8 @@ button img {
 .btn-primary {
   background-color: #3897f0;
   border: 1px solid #3897f0 !important;
+  width: 270px;
+  margin-left: 40px;
 }
 
 .terms {
@@ -118,9 +120,48 @@ button img {
   border: 1px solid #e6e6e6;
   width: 375px;
   margin: 10px;
-  padding: 20px;
+  padding-top: 20px;
+  
 }
 
 .right-column-login a:hover {
   text-decoration: none;
+}
+
+.get{
+  margin-left: 140px;
+}
+
+.gp{
+  margin-top: 20px;
+  width: 130px;
+  margin-left: 30px;
+}
+
+.app{
+  margin-top: 20px;
+  width: 130px;
+  margin-left: 20px;
+}
+.bawah{
+  margin-left: 20px;
+}
+
+.footer{
+  width: 1500px;
+  margin-top: 70px;
+  margin-left: 250px;
+  margin-bottom: 80px;
+  font-size: 13px;
+  color: blue;
+  padding-top: 50px;
+  padding-left: 50px;
+}
+
+.cr{
+  color: #999;
+  margin-right: auto;
+  margin-left: 1100px;
+  margin-top: -100px;
+  
 }
